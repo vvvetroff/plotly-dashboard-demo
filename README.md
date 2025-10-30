@@ -6,7 +6,7 @@ This demo simulates a dashboard that receives and plots incoming data from the D
 
 ## Contents
 **`mock_dms.py`**:
-- Simulates incoming telemetry data from the FSAE Duck Management System
+- Represents all the incoming data from the FSAE, as if it was coming from the Duck Management System
 - Generates and sends four data points via WebSocket as a dictionary:
   - Voltage, Amperage, Torque, and Temperature
 
