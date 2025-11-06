@@ -1,5 +1,5 @@
 # Plotly Dash(board) Demo
-A """quick""" demo demonstrating the real-time data visualization capabilities of Dash by Plotly using WebSockets.
+A ""quick"" demo demonstrating the real-time data visualization capabilities of Dash by Plotly using WebSockets.
 
 ## Overview
 This demo simulates a dashboard that receives and plots incoming data from the DMS via WebSocket connection.
